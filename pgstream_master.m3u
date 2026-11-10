@@ -1,0 +1,505 @@
+#EXTM3U
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Fox_sports_2_usa.jpg",FOX SPORT 2 (ARGENTINA)
+http://veotv.info:2086/live/user48498/37478298384/287623.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://media.a24.com/p/86680d26b86479b6279a4b3c75a1772e/adjuntos/296/imagenes/009/574/0009574604/1200x675/smart/facebook-portadajpg.jpg",A24 HD | AR
+http://veotv.info:2086/live/user48498/37478298384/39090.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://www.minutoneuquen.com/u/fotografias/m/2023/11/1/f1280x720-631849_763524_5050.jpg",AMERICA FHD (EXCLUSIVO) | ARG
+http://veotv.info:2086/live/user48498/37478298384/98489.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://veotv.info:2086/images/768a3932eac4bcbb3b747afe386c9b8955b96201.jpg",AMERICA FHD | AR
+http://veotv.info:2086/live/user48498/37478298384/2312.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://veotv.info:2086/images/30f1ca446f39f520de4d2dae98a4571bbfaf4bb2.jpg",CANAL 13 | AR
+http://veotv.info:2086/live/user48498/37478298384/7850.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://veotv.info:2086/images/30f1ca446f39f520de4d2dae98a4571bbfaf4bb2.jpg",CANAL 13 OPC 2 | AR
+http://veotv.info:2086/live/user48498/37478298384/2268.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",Canal 9 HD (OPC2) | AR
+http://veotv.info:2086/live/user48498/37478298384/55273.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://veotv.info:2086/images/0691b36f9f8ce2d3e910bb22cc9b225dfb43b101.png",CIUDAD MAGAZINE HD | AR
+http://veotv.info:2086/live/user48498/37478298384/3481.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://veotv.info:2086/images/45260a2803c4794498349809b88c44ebc9c23b7b.jpg",ESPN PREMIUM | AR
+http://veotv.info:2086/live/user48498/37478298384/3484.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-sports-3-hd_m.png",FOX SPORT 3 (ARGENTINA)
+http://veotv.info:2086/live/user48498/37478298384/287624.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://www.foxsports.com.mx/resizer/5dNtpUDs4H3AKQqkvfs5Qal2f3U=/arc-photo-elfinanciero/arc2-prod/public/ATWQIYGY2BEO3GOO7EH4ZLPCHM.jpg",FOX SPORTS 1 ARG/USA
+http://veotv.info:2086/live/user48498/37478298384/284610.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.ytimg.com/vi/unR6PQyi8TM/maxresdefault.jpg",LN+ | AR
+http://veotv.info:2086/live/user48498/37478298384/1128.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://veotv.info:2086/images/85b17b294b7f412fc60cd9cb8a53ce1cdedccec8.jpg",TELEFE HD | AR
+http://veotv.info:2086/live/user48498/37478298384/1343.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://veotv.info:2086/images/7d8805e68845b41d19eb438e066fb86eca4fdcca.jpg",TELEFE HD OPC 3 | AR
+http://veotv.info:2086/live/user48498/37478298384/8439.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://veotv.info:2086/images/c1def0b334882e82d7e5311f3a68a7689f25ac3c.png",TNT SPORTS HD | AR
+http://veotv.info:2086/live/user48498/37478298384/1102.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://dl.memuplay.com/new_market/img/com.bt.btsport.icon.2024-12-27-20-48-23.png",TNT SPORTS HD OPC 2 | AR
+http://veotv.info:2086/live/user48498/37478298384/32724.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://dl.memuplay.com/new_market/img/com.bt.btsport.icon.2024-12-27-20-48-23.png",TNT SPORTS HD OPC 3 | AR
+http://veotv.info:2086/live/user48498/37478298384/32725.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://veotv.info:2086/images/f0940052e3e6f03cd44e98ed42ed8309a438ba09.jpg",TV Publica | AR
+http://veotv.info:2086/live/user48498/37478298384/3439.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://veotv.info:2086/images/59d609e058974851bb3d3617ccc56a0504bb18fb.jpg",TYC SPORTS HD | AR
+http://veotv.info:2086/live/user48498/37478298384/8617.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://veotv.info:2086/images/59d609e058974851bb3d3617ccc56a0504bb18fb.jpg",TYC SPORTS HD | AR
+http://veotv.info:2086/live/user48498/37478298384/1101.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://veotv.info:2086/images/3a899bc30886773445e10d2aa8c8ef5dd0b3104b.png",TYC SPORTS INTERNACIONAL | AR
+http://veotv.info:2086/live/user48498/37478298384/3483.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2025/03/tyc-sports1.jpg",TYC Sports UHD (EXCLUSIVO) | AR
+http://veotv.info:2086/live/user48498/37478298384/87651.ts
+#EXTINF:-1 group-title="Argentina" tvg-logo="http://veotv.info:2086/images/dbf1f23be2c0bb84400f8bdfcf8f96b69e6ecd0f.jpg",VOLVER | AR
+http://veotv.info:2086/live/user48498/37478298384/3479.ts
+#EXTINF:-1 group-title="Superliga" tvg-logo="http://veotv.info:2086/images/f5b09f2c23bef1ac767b3b40a734a4a0.png",ESPN SUR SD
+http://veotv.info:2086/live/user48498/37478298384/1532.ts
+#EXTINF:-1 group-title="Superliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Fox_sports_2_usa.jpg",FOX SPORT 2 (ARGENTINA)
+http://veotv.info:2086/live/user48498/37478298384/287623.ts
+#EXTINF:-1 group-title="Superliga" tvg-logo="http://veotv.info:2086/images/45260a2803c4794498349809b88c44ebc9c23b7b.jpg",ESPN PREMIUM | AR
+http://veotv.info:2086/live/user48498/37478298384/3484.ts
+#EXTINF:-1 group-title="Superliga" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-sports-3-hd_m.png",FOX SPORT 3 (ARGENTINA)
+http://veotv.info:2086/live/user48498/37478298384/287624.ts
+#EXTINF:-1 group-title="Superliga" tvg-logo="http://veotv.info:2086/images/c1def0b334882e82d7e5311f3a68a7689f25ac3c.png",TNT SPORTS HD | AR
+http://veotv.info:2086/live/user48498/37478298384/1102.ts
+#EXTINF:-1 group-title="Superliga" tvg-logo="https://dl.memuplay.com/new_market/img/com.bt.btsport.icon.2024-12-27-20-48-23.png",TNT SPORTS HD OPC 2 | AR
+http://veotv.info:2086/live/user48498/37478298384/32724.ts
+#EXTINF:-1 group-title="Superliga" tvg-logo="http://veotv.info:2086/images/3a899bc30886773445e10d2aa8c8ef5dd0b3104b.png",TYC SPORTS INTERNACIONAL | AR
+http://veotv.info:2086/live/user48498/37478298384/3483.ts
+#EXTINF:-1 group-title="Superliga" tvg-logo="http://veotv.info:2086/images/8ec7730dfc3a1a10289ad4c99364b6a8.png",ESPN 1 COLOMBIA
+http://veotv.info:2086/live/user48498/37478298384/175197.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",ESPN DISNEY2 (L)
+http://veotv.info:2086/live/user48498/37478298384/350673.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/77d9ccddbf5811854c89360e9285785b.png",CLARO SPORTS (Guatemala)
+http://veotv.info:2086/live/user48498/37478298384/98361.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="0",Claro Sports 1 HD
+http://veotv.info:2086/live/user48498/37478298384/108653.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/1cdb1a43c089b74eb979dd757d98821a.png",DIRECTV SPORTS + (CHILE)
+http://veotv.info:2086/live/user48498/37478298384/146801.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/5ad82a47d5347ae486bbc51f8f4ba364.png",DIRECTV SPORTS 2
+http://veotv.info:2086/live/user48498/37478298384/1312.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Fox_sports_2_usa.jpg",FOX SPORT 2 (ARGENTINA)
+http://veotv.info:2086/live/user48498/37478298384/287623.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/f5b09f2c23bef1ac767b3b40a734a4a0.png",ESPN (ARGENTINA)
+http://veotv.info:2086/live/user48498/37478298384/92871.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/0dc80e48e0604a4a9a66c1750052ab4d.png",ESPN 1 FHD | PERU
+http://veotv.info:2086/live/user48498/37478298384/125385.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/5ff91cf8e91485eb0519309ec242bf2c43f33249.jpg",ESPN 2 FHD
+http://veotv.info:2086/live/user48498/37478298384/1320.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/337422329d580688ca4f4f1307b57346cac5decd.jpg",ESPN 3 FHD
+http://veotv.info:2086/live/user48498/37478298384/1321.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://corporate.comcast.com/media/img/1000w/2018/08/corporate_Web-Publishing_ESPN3_8-27_Thumbnail_16x9_V2.jpg",ESPN 3 HD
+http://veotv.info:2086/live/user48498/37478298384/98261.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/04/04/765g3bb03d-espn-4-en-vivo.jpg",ESPN 4 (LATAM) HD
+http://veotv.info:2086/live/user48498/37478298384/117640.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/ac1d8e9fcea881e47e0b99cce44fe92e.png",ESPN DEPORTES FHD
+http://veotv.info:2086/live/user48498/37478298384/1314.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://www.tmsimg.com/assets/s10179_ll_h3_aa.png",ESPN PREMIUM (LATAM) HD
+http://veotv.info:2086/live/user48498/37478298384/111401.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/731c52b87dec980d379ee64aed4771d0.png",ESPN U FHD
+http://veotv.info:2086/live/user48498/37478298384/1318.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/1d2e198479f7e23e6382f2d1c1e9d56a.png",FOX DEPORTES FHD
+http://veotv.info:2086/live/user48498/37478298384/1323.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/0d17d746b0595a5f508b993477596346f773a296.svg",FOX SPORTS 2 (MEXICO)
+http://veotv.info:2086/live/user48498/37478298384/1325.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/0d17d746b0595a5f508b993477596346f773a296.svg",FOX SPORTS 2 FHD
+http://veotv.info:2086/live/user48498/37478298384/1328.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/f4f252290b28add7bf66bf8c4c6c90bb9ceda419.png",FOX SPORTS 3 (MEXICO)
+http://veotv.info:2086/live/user48498/37478298384/1326.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/0b74007b0a60dbb11306cbdb42d7112a.png",GOLF CHANNEL LATINO
+http://veotv.info:2086/live/user48498/37478298384/1330.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://agnituslife.com/wp-content/uploads/2018/03/Red-Bull-TV-810x579.jpg",RED BULL TV
+http://veotv.info:2086/live/user48498/37478298384/41226.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://veotv.info:2086/images/54a922e73a2f4526810c6c41a6ea921e.png",TVC DEPORTES MEXICO
+http://veotv.info:2086/live/user48498/37478298384/1333.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="0",UFC TV
+http://veotv.info:2086/live/user48498/37478298384/45501.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://corporate.comcast.com/media/img/1000w/2018/08/corporate_Web-Publishing_ESPN3_8-27_Thumbnail_16x9_V2.jpg",ESPN 3 FHD
+http://veotv.info:2086/live/user48498/37478298384/96263.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjqGKXzEkEGStS4cZ8WC5jIDWrE7cwe7XHfLHR1RfhgZ7D8_13Nt8dSTZJJcenLjCDsSt4hj8TmvqjA1v-FystydwUt9qG760S6OBTe4w5j4uoQBjT_9jKkXqV76_gGAlpj-A1TkQaWA5DSlNNJh2uJGTFHVLgEcxd5JZw6QKDtQnFSGZjylBBPb_02=w640-h360",Paramount + Premier League
+http://veotv.info:2086/live/user48498/37478298384/163615.ts
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2025/03/tyc-sports1.jpg",TYC SPORTS (L) HD
+http://veotv.info:2086/live/user48498/37478298384/121363.ts
+#EXTINF:-1 group-title="DirecTV Sports" tvg-logo="http://www.tmsimg.com/assets/s107396_ll_h3_ac.png",DIRECTV SPORTS 2 (COLOMBIA)
+http://veotv.info:2086/live/user48498/37478298384/211601.ts
+#EXTINF:-1 group-title="DirecTV Sports" tvg-logo="http://www.tmsimg.com/assets/s109752_h3_aa.png",DIRECTV SPORTS (CHILE)(EXCLUSIVO) UHD
+http://veotv.info:2086/live/user48498/37478298384/211592.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0piZvxjxQR3dfpNqadKjDF9ttW_xFc9kn7z-6jW8mVLQhQ.png",A&E (Latino) HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/996.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0piZvxjxQR3dfpNqadKjDF9ttW_xFc9kn7z-6jW8mVLQhQ.png",A&E HD (MX) | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/86931.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0piZvxjxQR3dfpNqadKjDF9ttW_xFc9kn7z-6jW8mVLQhQ.png",A&E HD Latino | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/997.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/2c25a502c7683ba7aed55c8b7ec68f3e.png",ANIMAL PLANET LATINO HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/969.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/88e61af5358cbf5f32bb448395834776.png",AXN HD Mexico | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/1003.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/88e61af5358cbf5f32bb448395834776.png",AXN LATINO | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/1002.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/c3a60bde7004aa91422ee65adcec0049.png",DISCOVERY CHANNEL LATINO | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7915.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/17513f321e08509e9884812da36909f5.png",Discovery Familia HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/43852.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/244049e8bfe02922a59b9e5ee7b1f08c.jpg",DISCOVERY H&H | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/974.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/1134d93bae87b4561db1a5803942e0d4.png",DISCOVERY H&H LATINO HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7917.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/b15bddc96a62e8a4e8c2ef8be29c07e4.png",DISCOVERY ID | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/976.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="0",DISCOVERY ID COL (L) | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/248840.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/5ff47dc9f1333a1a410fe4789d945c9e.png",DISCOVERY SCIENCE LATINO FHD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7918.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/c774c20af747b239fec2346a72e770370526e30e.webp",DISCOVERY THEATER HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/980.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/e485ae878978bce1de4227e25a793b92.png",DISCOVERY THEATER LATINO FHD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7920.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/d018146bd4b48997c18734748263ac09.png",Discovery TLC HD (MX) | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7931.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/1e790de681d2a3919b330b54bd73f484.png",Discovery TLC Latino HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/981.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0pjdJ-fZhn3qAhRnZKRqKaHmgNfsw0eRCKBRQrrz5neN-Q.png",DISCOVERY TURBO HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/982.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/bd9270c33b48fd30d59b3c18c1244b42.png",DISCOVERY TURBO LATINO FHD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7919.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/f17d87c6cc9afaa652b307415035e605.png",DISCOVERY WORLD FHD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/983.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/ad76b4d8336d84729b2eb3b3d40ac76a.png",DISCOVERY WORLD LATINO FHD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7921.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/28f4af6803a22e5e49aebe830565f48a.jpg",EL GOURMET FHD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/985.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/bada03590d64a33156dc35cf4ab48cbc.png",EL GOURMET LATINO | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7922.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0pjSkdFd_CWGinMX7uiaO1VfNdRd2V2Ae_sErdxqJZ8NIw.png",EUROPA EUROPA | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/82456.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/c53feef010844bfb709d29dbb6ab85175530c155.webp",FILM & ARTS HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/1045.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0piw1E1AQDpAaWtmd1f30vOSL6kcNtCGdPkJuQI0aaDwbQ.png",FOOD NETWORK HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/164371.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0ph29kNZodS2Wax2qNgEsQ5j.png",HGTV | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/87311.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/8e3e9bc0cc70a19c3a4da6b8c7559c4f.png",HGTV LATINO | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7916.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0pjpauFQzPiBllvynsf5GqBQ5i2mskERQ9-f9IlgWe4yVg.png",HISTORY 2 HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/97416.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/4c86c6c7267e7e3056f38ea882a1bc48632debed.png",HISTORY CHANNEL FHD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/989.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/4c86c6c7267e7e3056f38ea882a1bc48632debed.png",History Channel FHD Latino | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7925.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0pjpauFQzPiBllvynsf5GqBQ5i2mskERQ9-f9IlgWe4yVg.png",HISTORY2 HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/121361.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/c3bef1793c2ba906300dca19525b3cac.png",ID HD (Dual Audio) Latino | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7926.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0phE0i-kDpplIhYdqWfPxoQf69MO6E3Svptyu2HoBpQFug.png",LIFETIME HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/1017.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0pj0zzH_0px_3dNMEO-kVfRuA55xc53ESMPkZ5tzpd36Ng.png",LOVE NATURAL HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7930.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/7c2dd768283318b6d4206c4290dac485.png",Nat Geo (LAT) HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7929.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/b8b539a2b810bd5628234e93d09b34cc.jpg",Nat Geo Latino FHD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/991.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/0gruEy1.png",Nat Geo Mundo SD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/44228.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/b8b539a2b810bd5628234e93d09b34cc.jpg",National Geographic | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/121352.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0pj6aNR7d8jrEJRBiZdHLh7bz2wP4prfTht0WrftMez1kQ.png",PASIONES HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/1020.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/925f1add8d09496fe5ecb452e5157c35.png",SAT LATINO | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7927.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/0627c4d2aab144d33721fbe66c50de63.png",STAR CHANNEL HD Latino ( Dual audio) | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/1010.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/4cf2ef642f0381d16851cc45171bf9188a35e7ff.webp",Unicable Latino HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7932.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0ph8IYd1RqFs0NTM73lPSXpL55jbvij6YOwcdZHtvgKQNg.png",Universal Channel HD (MX) | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/86424.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/630c653e5ce11f3fb95f3ad6d566fefd.png",Universal CINEMA HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/118286.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/4cf70ab40878d2bf59a4cf7aba7cf208.png",Universal CRIME DUAL AUDIO | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/118288.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="",UNIVERSAL CRIMEN OESTE | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/121041.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/3a633ff646ce90de75f35df2cd8e442e.png",Universal PREMIERE HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/118289.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/c5425097d8a3a1e59e1fb9a36b02c884.png",Universal REALITY HD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/118290.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/0ea401bfeff4e436ae507c8fad0cfeb4.jpg",WOBI | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/995.ts
+#EXTINF:-1 group-title="Premium" tvg-logo="http://veotv.info:2086/images/28cf49aadd94971fff469be545030b7a.png",Wobi Latino SD | PREMIUM
+http://veotv.info:2086/live/user48498/37478298384/7933.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/81872f153e19e79014b1a1e2e55e4300608e54b7.png",AMC HD
+http://veotv.info:2086/live/user48498/37478298384/1000.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0pidNEB-9AKxoHXWEhzteRbVXpN0DSJ-WQUu8ODFwFZ6bw.png",AZ CINEMA HD
+http://veotv.info:2086/live/user48498/37478298384/1035.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/c36ae8fa3a970da15a40a38606c1bf2d9cc2a9f6.png",CINECANAL HD DUAL AUDIO
+http://veotv.info:2086/live/user48498/37478298384/1039.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/f349c2b1ba9bfbb70ee4615b1939a3a6.png",CINEMAX (MX) HD
+http://veotv.info:2086/live/user48498/37478298384/1216.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0pivXWO2_q8aX9knnZbaAJ-BOowDKmGvF134OP3nl8Q4rg.png",CINECANAL HD
+http://veotv.info:2086/live/user48498/37478298384/1233.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/84e6bcb6465ab8b657573d275ba1593c66c2bca3.jpg",CINEMAX HD
+http://veotv.info:2086/live/user48498/37478298384/1234.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="https://variety.com/wp-content/uploads/2017/12/fx-logo.jpg",FX HD ( DUAL AUDIO)
+http://veotv.info:2086/live/user48498/37478298384/72509.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0pgWpEF2zoWIR-JNIxxnjs-4.png",FX HD(MX)
+http://veotv.info:2086/live/user48498/37478298384/1012.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/15c8caae5a195cfebe9a802c35187926.png",GOLDEN PLUS HD
+http://veotv.info:2086/live/user48498/37478298384/1061.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/0d1cb7a35144bd9008065449330999ea.jpg",GOLDEN PREMIER HD
+http://veotv.info:2086/live/user48498/37478298384/1062.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/88805386a04b3043f8d511e50b8c1916.png",HBO FAMILY HD
+http://veotv.info:2086/live/user48498/37478298384/1219.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/d125c86a8e07ea7e518160444f9bc4fd.jpg",HBO HD (LAT)
+http://veotv.info:2086/live/user48498/37478298384/1064.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/d125c86a8e07ea7e518160444f9bc4fd.jpg",HBO HD Latino
+http://veotv.info:2086/live/user48498/37478298384/18722.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/HBO_Xtreme.png/revision/latest?cb=20200129203206",HBO Xtreme HD
+http://veotv.info:2086/live/user48498/37478298384/41129.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/dc740d2074693e92c2b3d6c872ee5ff2.png",MOREMAX HD
+http://veotv.info:2086/live/user48498/37478298384/1205.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0pheCwhhrPNcJFeyX0RIlJqb.png",SONY HD
+http://veotv.info:2086/live/user48498/37478298384/1022.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/9ad23317fd3d3bdab7a5634d279c2f02.jpg",SPACE HD
+http://veotv.info:2086/live/user48498/37478298384/1024.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/056fe92146c166978c1f294914f1e9fe.png",STAR ACTION HD (Dual audio)
+http://veotv.info:2086/live/user48498/37478298384/1047.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/d69ab3ab8f8e0794d50de0ce548693e5.png",STAR FUN HD (Dual audio)
+http://veotv.info:2086/live/user48498/37478298384/1053.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/e74fb776cb10555f2ddcd0c2386fbdd8.png",STAR SERIES HD
+http://veotv.info:2086/live/user48498/37478298384/1209.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/96ffc2af3cb4c84f07ba5a211a95c613.png",STARZ EDGE HD
+http://veotv.info:2086/live/user48498/37478298384/1194.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/55aab20962f5f3928408ea1f2b0ceada0b095b3a.png",STARZ ENCORE (ESPAÑOL) HD
+http://veotv.info:2086/live/user48498/37478298384/1204.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/1478d08b8b4a150df4ee8a2c8fa9eb60.png",STARZ ENCORE ACTION HD
+http://veotv.info:2086/live/user48498/37478298384/1193.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/f423f6304583fd948901376de8cc167d.png",STARZ ENCORE SUSPENSE HD
+http://veotv.info:2086/live/user48498/37478298384/1189.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/3136cc4ae1b9c264770cdf11aba09a8a.png",STARZ HD
+http://veotv.info:2086/live/user48498/37478298384/1195.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/e14d4b09d3c55a1b969234e6c6822912.jpg",TNT HD (MX)
+http://veotv.info:2086/live/user48498/37478298384/121358.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/e14d4b09d3c55a1b969234e6c6822912.jpg",TNT HD Dual
+http://veotv.info:2086/live/user48498/37478298384/1078.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/f05036b6b4958cca33f76e3a62b683b1.png",TNT NOVELAS HD
+http://veotv.info:2086/live/user48498/37478298384/1225.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/9a948a08d28afc62256bcdd249d7fff0.png",UNIVERSAL CHANNEL HD (MX)
+http://veotv.info:2086/live/user48498/37478298384/1080.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/8da0bc043f4426e260f75ad94e1787bfef3e365f.webp",Universal Comedy HD
+http://veotv.info:2086/live/user48498/37478298384/1210.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Universal_Premiere.svg/1280px-Universal_Premiere.svg.png",UNIVERSAL PREMIER HD Dual Audio
+http://veotv.info:2086/live/user48498/37478298384/121044.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/16a73c2559248fcc3516793a5e15b70e.png",UNIVERSAL PREMIERE HD (Dual Audio)
+http://veotv.info:2086/live/user48498/37478298384/146804.ts
+#EXTINF:-1 group-title="Cine" tvg-logo="http://veotv.info:2086/images/3c8860d91dd27a583de665c1f0738ea5f30bbf76.png",WARNER CHANNEL HD (Dual Audio)
+http://veotv.info:2086/live/user48498/37478298384/1034.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/s7qdJHI.png",INFANTILES | Baby First
+http://veotv.info:2086/live/user48498/37478298384/68779.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://veotv.info:2086/images/6798503ee9bba15499da3c77c5a7a8a5.png",INFANTILES | BABY TV ESPAñOL
+http://veotv.info:2086/live/user48498/37478298384/129625.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://veotv.info:2086/images/afadf670cfb266e4edb2f097aff7fcd6.png",INFANTILES | Cartoon Network (MX)
+http://veotv.info:2086/live/user48498/37478298384/1590.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://veotv.info:2086/images/7c83b47af0e8bab456261bcb6027c66e86c59cb0.png",INFANTILES | CARTOONITO (LAT) HD
+http://veotv.info:2086/live/user48498/37478298384/1589.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://veotv.info:2086/images/2f2437735a92b2bd95568584e75a65e26bdc8500.png",INFANTILES | DISCOVERY KIDS HD (MX)
+http://veotv.info:2086/live/user48498/37478298384/1084.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://veotv.info:2086/images/yrRJlUD8QSvX8eLqkp5spRSmupomOik1zhuSiG0R0phXM9amFdrwbV6EqbuI1oGsreGmlcvdkzmDXoGQWab7TQ.png",INFANTILES | DISNEY CHANNEL HD
+http://veotv.info:2086/live/user48498/37478298384/1085.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://veotv.info:2086/images/b3e8bdb821c6eb36c7be35defc5d6b54985c5581.png",INFANTILES | DISNEY JR HD (MX)
+http://veotv.info:2086/live/user48498/37478298384/1086.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://cablego.com.pe/cache/biglogos/DREAMWORKS.png",INFANTILES | DREAMWORKS
+http://veotv.info:2086/live/user48498/37478298384/201373.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://veotv.info:2086/images/99181090344cbe704ce19093e44a5b20.png",INFANTILES | NICK 2 (MX)
+http://veotv.info:2086/live/user48498/37478298384/1090.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://veotv.info:2086/images/ec607b20d26fad3f0293319421d5e0815b91be32.png",INFANTILES | NICK JR (LAT)
+http://veotv.info:2086/live/user48498/37478298384/1092.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://veotv.info:2086/images/0c017b41c9fa347aef0449e1d47e3a82de6aa41e.png",INFANTILES | NICKELODEON HD (MX)
+http://veotv.info:2086/live/user48498/37478298384/1093.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://veotv.info:2086/images/b56cdd03ee4045e0d899db3e5d7a9fb4.png",INFANTILES | TOONCAST (MX)
+http://veotv.info:2086/live/user48498/37478298384/1098.ts
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQpReKyMcN3KsncqpV50qskusSRLbTy8z4yA&usqp=CAU",INFANTILES | ZOOMOO
+http://veotv.info:2086/live/user48498/37478298384/87313.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://e00-telva.uecdn.es/assets/multimedia/imagenes/2017/11/17/15109135627168.png",24/7 | Harry Potter
+http://veotv.info:2086/live/user48498/37478298384/13381.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="http://158.69.24.110/posters/1551730667527.jpg",24/7 | JOHN WICK
+http://veotv.info:2086/live/user48498/37478298384/17382.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/jurassic-park-logo-historia-parque-jurasico.jpg",24/7 | JURASSIC PARK
+http://veotv.info:2086/live/user48498/37478298384/29607.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/813dE2pH7XL._SY355_.jpg",24/7 | MATRIX  ( ES)
+http://veotv.info:2086/live/user48498/37478298384/13435.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="http://veotv.info:2086/images/b1b14a430fd46fee0c0d3fa51a91e74f.jpg",24/7 | Mr Bean
+http://veotv.info:2086/live/user48498/37478298384/35845.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="http://veotv.info:2086/images/1e788cfdec0dc29976d60a4d5e4bc828.jpg",24/7 | RAPIDOS Y FURIOSOS
+http://veotv.info:2086/live/user48498/37478298384/13436.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://portalgeek.co/wp-content/uploads/2019/09/XMEN.jpg",24/7 | Saga X-MEN
+http://veotv.info:2086/live/user48498/37478298384/29608.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="http://veotv.info:2086/images/dac14bc6abec03e5617672e9fa7b82c2.jpg",24/7 | SAW   (ES)
+http://veotv.info:2086/live/user48498/37478298384/17381.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://i.pinimg.com/564x/5d/ac/70/5dac7058d51781b6163f21241a17a01d.jpg",24/7 | Garfield
+http://veotv.info:2086/live/user48498/37478298384/35821.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/88/3b/de/883bdec3-4072-841d-e2d0-6609fdc19544/mzm.jqiredrw.lsr/268x0w.jpg",24/7 | SHREK
+http://veotv.info:2086/live/user48498/37478298384/17383.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="http://veotv.info:2086/images/c849656812f8e0c28627aafe17dfd26d.jpg",24/7 | The Big Bang Theory
+http://veotv.info:2086/live/user48498/37478298384/35854.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="http://158.69.24.110/posters/1549994138383.jpg",24/7 | TOY STORY
+http://veotv.info:2086/live/user48498/37478298384/17384.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="http://veotv.info:2086/images/f399faff66a3cf75d2009c558abb787e.jpg",24/7 | Looney Tunes
+http://veotv.info:2086/live/user48498/37478298384/35843.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="http://veotv.info:2086/images/ff6b162bb75afa36a8d193f735d08cae.jpg",24/7 Alf
+http://veotv.info:2086/live/user48498/37478298384/42057.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="http://veotv.info:2086/images/5135af3e1b887aede97f7fd2becc2389.jpg",24/7 Alien  (ES)
+http://veotv.info:2086/live/user48498/37478298384/42064.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="http://veotv.info:2086/images/ea53db630b6e195a375e37053b80ad85.jpg",24/7 Breaking Bad
+http://veotv.info:2086/live/user48498/37478298384/41216.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ1NTQ5MTAtMDgwZi00Njc2LTk5MGEtM2NmNDIxYTJiNzA2XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",24/7 Curon
+http://veotv.info:2086/live/user48498/37478298384/67559.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQFO5cPoYfKrACayWItroAi1Wdp.jpg",24/7 El Chavo del Ocho
+http://veotv.info:2086/live/user48498/37478298384/42058.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="http://veotv.info:2086/images/67187f09cf8b38dc48816458e15050a4.jpg",24/7 Hannah Montana
+http://veotv.info:2086/live/user48498/37478298384/67563.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Icarly-logo.svg/245px-Icarly-logo.svg.png",24/7 iCarly ( ES)
+http://veotv.info:2086/live/user48498/37478298384/67555.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_de_Los_Hechiceros_de_Waverly_Place.png",24/7 Los magos de Waverly Place
+http://veotv.info:2086/live/user48498/37478298384/67556.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="http://veotv.info:2086/images/7052268cae43b6dbd61a33c7beeb6af8.jpg",24/7 Los Pinguinos de madagascar (p)(1080)
+http://veotv.info:2086/live/user48498/37478298384/3783.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://i.imgur.com/GmKs5Fr.jpg",24/7 Películas de Romance
+http://veotv.info:2086/live/user48498/37478298384/43853.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://i.pinimg.com/564x/0c/66/06/0c6606b05f96ef9e0b8cd41ba449febd.jpg",24/7 Películas de Terror
+http://veotv.info:2086/live/user48498/37478298384/43368.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://i.imgur.com/IZSvtW8.jpg",24/7 Películas infantiles
+http://veotv.info:2086/live/user48498/37478298384/42878.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://i.pinimg.com/originals/2e/77/9b/2e779b076e4c96d868f98c8084182465.jpg",24/7 Garfield Y Amigos
+http://veotv.info:2086/live/user48498/37478298384/67565.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://underbrain.com/wp-content/uploads/resident-evil-saga.jpg",24/7 RESIDENT EVIL ( ES)
+http://veotv.info:2086/live/user48498/37478298384/42056.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://i.pinimg.com/564x/bc/81/2a/bc812aa7eb525c6009495135bf4270c2.jpg",24/7 Saga Transformers (ES)
+http://veotv.info:2086/live/user48498/37478298384/42070.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgu3p4NvisS8CI68cUfBKbvAvu8.jpg",24/7 Space Force
+http://veotv.info:2086/live/user48498/37478298384/67570.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://i.pinimg.com/564x/92/89/6b/92896b3f3b32814a8a7e1b2f9be9e34b.jpg",24/7 Spider-Man  (ES)
+http://veotv.info:2086/live/user48498/37478298384/42062.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzYmQ4NTUtMGVjOS00OWRhLTlmYjktZDlkZTk2OGQ2YjE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",24/7 Star Trek: Picard
+http://veotv.info:2086/live/user48498/37478298384/67558.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://i.pinimg.com/564x/0c/fa/8a/0cfa8a2a8cc6b908bbe17884d390d858.jpg",24/7 STAR WARZ (ES)
+http://veotv.info:2086/live/user48498/37478298384/42063.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://i.imgur.com/RB8WGTW.jpg",24/7 Stranger Things
+http://veotv.info:2086/live/user48498/37478298384/67566.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://i.imgur.com/2zwCP3z.jpg",24/7 The Hangover (ES)
+http://veotv.info:2086/live/user48498/37478298384/81713.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obT6uoln7cA0pvQlqqoZ4IvjPml.jpg",24/7 Warrior (ES)
+http://veotv.info:2086/live/user48498/37478298384/67568.ts
+#EXTINF:-1 group-title="Series 24/7" tvg-logo="0",24/7:: Dragon Ball Z
+http://veotv.info:2086/live/user48498/37478298384/101271.ts
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://veotv.info:2086/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg",Cinema 01
+http://veotv.info:2086/live/user48498/37478298384/32673.ts
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://veotv.info:2086/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg",Cinema 02
+http://veotv.info:2086/live/user48498/37478298384/32674.ts
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://veotv.info:2086/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg",Cinema 08
+http://veotv.info:2086/live/user48498/37478298384/32680.ts
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://veotv.info:2086/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg",Cinema 13
+http://veotv.info:2086/live/user48498/37478298384/32685.ts
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://veotv.info:2086/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg",Cinema 17
+http://veotv.info:2086/live/user48498/37478298384/32689.ts
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://veotv.info:2086/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg",Cinema 21
+http://veotv.info:2086/live/user48498/37478298384/32693.ts
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://veotv.info:2086/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg",Cinema 22
+http://veotv.info:2086/live/user48498/37478298384/32694.ts
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://veotv.info:2086/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg",Cinema 24
+http://veotv.info:2086/live/user48498/37478298384/32696.ts
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://veotv.info:2086/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg",Cinema 26
+http://veotv.info:2086/live/user48498/37478298384/32698.ts
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://veotv.info:2086/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg",Cinema 30
+http://veotv.info:2086/live/user48498/37478298384/32702.ts
+#EXTINF:-1 group-title="Cine 24/7" tvg-logo="http://veotv.info:2086/images/ef138fa3d50ab5bcc40423fe1a4dea9c.jpg",Cinema 48
+http://veotv.info:2086/live/user48498/37478298384/147093.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81nRWZRLTJL._RI_.jpg",24/7  |  Teen Titans Go
+http://veotv.info:2086/live/user48498/37478298384/13384.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/6609/NOV980167._SX1280_QL80_TTD_.jpg",24/7 | Batman del futuro
+http://veotv.info:2086/live/user48498/37478298384/13432.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/b7fae40f3de9fe3fdce0a9335650b3d2.jpg",24/7 | Bob Esponja
+http://veotv.info:2086/live/user48498/37478298384/35824.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/61c41054c6592154995352cff8e31a3555908788.jpg",24/7 | BOB ESPONJA (M)
+http://veotv.info:2086/live/user48498/37478298384/3662.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/26633faa8894cb639182b4edfd15d44b.jpg",24/7 | CANTINFLAS (M)
+http://veotv.info:2086/live/user48498/37478298384/3652.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://laverdadnoticias.com/__export/1579567095199/sites/laverdad/img/2020/01/20/dinosaurios_funko.jpg_356075924.jpg",24/7 | Dinosaurios (M)
+http://veotv.info:2086/live/user48498/37478298384/3649.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://holatelcel.com/wp-content/uploads/2020/03/dragon-ball-2.jpg",24/7 | Dragon Ball
+http://veotv.info:2086/live/user48498/37478298384/35837.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/350fd3900510b43de2e54b162a5e624a.jpg",24/7 | Dragon Ball (M)
+http://veotv.info:2086/live/user48498/37478298384/3657.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/975ce527c0ffc87a1058ac34da9caabc.jpg",24/7 | Dragon Ball GT
+http://veotv.info:2086/live/user48498/37478298384/35835.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/43ca344109057139e122264925929ef7b9aaea1b.jpg",24/7 | Dragon ball GT (M)
+http://veotv.info:2086/live/user48498/37478298384/3659.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://i.pinimg.com/564x/5d/ac/70/5dac7058d51781b6163f21241a17a01d.jpg",24/7 | Garfield
+http://veotv.info:2086/live/user48498/37478298384/35821.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://as01.epimg.net/us/imagenes/2019/09/01/tikitakas/1567366572_278747_1567366685_noticia_normal_recorte1.jpg",24/7 | LA PANTERA ROSA
+http://veotv.info:2086/live/user48498/37478298384/13442.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://i.pinimg.com/564x/d8/e1/4a/d8e14a0c52882e3c5c7ff1a1ef1e0e7d.jpg",24/7 | La Pequeña LuLu
+http://veotv.info:2086/live/user48498/37478298384/35818.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/653ab734ea4b993cd879e9aa28b12295.jpg",24/7 | Los Picapiedra
+http://veotv.info:2086/live/user48498/37478298384/35844.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/6f5cdca873153683fa5d9267db9b41ad.jpg",24/7 | Los Simpsons (TEMPARADA 1 AL 10)
+http://veotv.info:2086/live/user48498/37478298384/3648.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/f399faff66a3cf75d2009c558abb787e.jpg",24/7 | Looney Tunes
+http://veotv.info:2086/live/user48498/37478298384/35843.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/876c3078bff8bfa7b6aeae19537c8506.jpg",24/7 | Los super campeones
+http://veotv.info:2086/live/user48498/37478298384/35819.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/ad11c3f62260edfb010ba1ee24cc61ce.jpg",24/7 | Naruto
+http://veotv.info:2086/live/user48498/37478298384/35846.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/c5f6efa5198a2b68d056ea11d8b4d73b.jpg",24/7 | Ranma 1/2
+http://veotv.info:2086/live/user48498/37478298384/35849.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/668fc87897cfe58bd682f91deef98335.jpg",24/7 | Super Campeones
+http://veotv.info:2086/live/user48498/37478298384/35853.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/45e1cbeec5ec4b1f8bad5b49fc89d60f.jpg",24/7 | Tom y Jerry
+http://veotv.info:2086/live/user48498/37478298384/35855.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/2d99b453a0c76e7bde4b47f47287f0a4.jpg",24/7 Coraje
+http://veotv.info:2086/live/user48498/37478298384/41200.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLf77qFk54GQcmwSsox6g9JmQHu.jpg",24/7 Danny Phantom
+http://veotv.info:2086/live/user48498/37478298384/41198.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://i.pinimg.com/564x/dd/d4/4f/ddd44fddf1a383f92780a11cf8b980a9.jpg",24/7 Death Note
+http://veotv.info:2086/live/user48498/37478298384/41333.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61RE64an8qL._SL1000_.jpg",24/7 El proyecto Z
+http://veotv.info:2086/live/user48498/37478298384/41334.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://158.69.24.110/posters/1528312398473.jpg",24/7 futurama
+http://veotv.info:2086/live/user48498/37478298384/3771.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE3ODc0ZWUtNWU5Ni00YzA2LWExMDktNTIyMTQ3YmIwNjM5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",24/7 G.I. Joe
+http://veotv.info:2086/live/user48498/37478298384/41343.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://www.lacartoons.com/system/series/portadas/000/000/009/original/s-l300.jpg",24/7 Gasparin y sus amigos
+http://veotv.info:2086/live/user48498/37478298384/41344.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://i.pinimg.com/originals/2e/77/9b/2e779b076e4c96d868f98c8084182465.jpg",24/7 Garfield Y Amigos
+http://veotv.info:2086/live/user48498/37478298384/67565.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://mlstaticquic-a.akamaihd.net/D_NQ_NP_854811-MEC20630767060_032016-V.jpg",24/7 Iron Man: Anime (ES)
+http://veotv.info:2086/live/user48498/37478298384/41340.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/a99d753080ac42c8d29d8db0a08496c9.jpg",24/7 La liga de la justicia
+http://veotv.info:2086/live/user48498/37478298384/41208.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://i.imgur.com/2fI3Xz0.jpg",24/7 La máscara
+http://veotv.info:2086/live/user48498/37478298384/41202.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRRvCUREeqqnp3hHdqep83eQjdP.jpg",24/7 Liga de la Justicia Ilimitada
+http://veotv.info:2086/live/user48498/37478298384/41209.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg",24/7 Los 4 Fantásticos
+http://veotv.info:2086/live/user48498/37478298384/41335.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",24/7 Los padrinos mágicos
+http://veotv.info:2086/live/user48498/37478298384/67554.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/653ab734ea4b993cd879e9aa28b12295.jpg",24/7 Los Picapiedra
+http://veotv.info:2086/live/user48498/37478298384/4623.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://i.imgur.com/Bivn6Ye.jpg",24/7 Naruto Shippuden
+http://veotv.info:2086/live/user48498/37478298384/80728.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_.jpg",24/7 Peppa Pig
+http://veotv.info:2086/live/user48498/37478298384/67564.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/da2a7ab2a2b74064c70e887472e472c452be50be.jpg",24/7 Pokemon
+http://veotv.info:2086/live/user48498/37478298384/3712.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/24/09/38/246217.jpg",24/7 Silvestre Y Piolín
+http://veotv.info:2086/live/user48498/37478298384/41341.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/db7a123818a65b0038be6117cbcd1a7a.jpg",24/7 South Park Kenny
+http://veotv.info:2086/live/user48498/37478298384/3799.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKZR2IIrPPo2LnMdYfxvOlXFls7.jpg",24/7 Spawn
+http://veotv.info:2086/live/user48498/37478298384/41337.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cY8CtEWhQ2MKJQJc9Kx116HxVEA.jpg",24/7 Static Shock
+http://veotv.info:2086/live/user48498/37478298384/41338.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk8PDEgEP1KLcinuhn6RIvWXy9E.jpg",24/7 Street Sharks
+http://veotv.info:2086/live/user48498/37478298384/41332.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7FauEh0yeZtIPWnD3pBvG6j8sd.jpg",24/7 Superman: La serie animada
+http://veotv.info:2086/live/user48498/37478298384/41368.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://i.pinimg.com/564x/fb/f0/47/fbf04735aa2f4025e249c6872368104c.jpg",24/7 Teen Titans (ES)
+http://veotv.info:2086/live/user48498/37478298384/41364.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="https://i.pinimg.com/originals/91/ed/32/91ed3266f76790058de45b9c85ffea33.png",24/7 ThunderCats (ES)
+http://veotv.info:2086/live/user48498/37478298384/45219.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/a8653d155eec212b5abfe46e627bae53.jpg",24/7 Transformers ( ES)
+http://veotv.info:2086/live/user48498/37478298384/41366.ts
+#EXTINF:-1 group-title="Animados 24/7" tvg-logo="http://veotv.info:2086/images/babad33dba758243d53b90b95fb6c1e6.jpg",24/7 X Men, La Serie Animada
+http://veotv.info:2086/live/user48498/37478298384/41205.ts
