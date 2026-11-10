@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://i.ibb.co/0VFv6Rfz/Captura-de-pantalla-2026-02-01-110104.png" group-title="ANDEN TV PACK FUTBOL",TNT Sports
+https://anden26.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium" tvg-logo="https://i.ibb.co/b56nbt9h/Captura-de-pantalla-2026-02-01-105301.png" group-title="ANDEN TV PACK FUTBOL",ESPN Premium
+https://serviciosatv78.ddns.net/live/stream.m3u8
